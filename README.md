@@ -1,4 +1,4 @@
-# FP-Rakamin
+# Final Project - Rakamin Group: peerData
 
 ##Stage 1
 
