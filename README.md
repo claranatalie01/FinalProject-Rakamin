@@ -30,3 +30,6 @@
 <img style="display: block;" src="assets/Stage 1 - Laporan Homework EDA - peerData_page-0026.jpg" width="720" height="405"  alt="">
 <img style="display: block;" src="assets/Stage 1 - Laporan Homework EDA - peerData_page-0027.jpg" width="720" height="405"  alt="">
 <img style="display: block;" src="assets/Stage 1 - Laporan Homework EDA - peerData_page-0028.jpg" width="720" height="405"  alt="">
+<img style="display: block;" src="assets/Stage 1 - Laporan Homework EDA - peerData_page-0029.jpg" width="720" height="405"  alt="">
+<img style="display: block;" src="assets/Stage 1 - Laporan Homework EDA - peerData_page-0030.jpg" width="720" height="405"  alt="">
+<img style="display: block;" src="assets/Stage 1 - Laporan Homework EDA - peerData_page-0031.jpg" width="720" height="405"  alt="">
